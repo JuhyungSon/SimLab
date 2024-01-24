@@ -2,7 +2,7 @@
 Welcome to Simlab, we are providing chemical engineering course to teach the practical learing expereince in the virtual environment. 
 
 # Install
--1.Download and install the unity.
+1.Download and install the unity.
 
 -2.Create the Lobby Scene, Control Room Scene, Chemical Plant (Enginereing) Scene.
 
