@@ -63,7 +63,7 @@ then exported to an Alembic file and imported into Unity. The color, texture, an
 Unity to make the animation look more realistic.
 
 # Get Started 
-The code is a Unity Project that contains a bunch of codes example. Download the codes and implemnt to your project.
+The code is a Unity Project that contains a bunch of codes example. Download the codes and adjust to your project.
 
 ## WorkFlow and Code Explanation 
 
