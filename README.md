@@ -103,6 +103,7 @@ at the video lecture in the lobby. It represent that the progress of the video l
 - TimeChecker: When user start the open the valve and when finish the user interaction. I could get the data from this code for user task completion.
 
 
+![image](https://github.com/JuhyungSon/SimLab/assets/66192341/a744a13f-2c71-4365-9315-1d1888c37bd6)
 
 
   
