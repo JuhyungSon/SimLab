@@ -62,8 +62,8 @@ flows inside the distillation column and through each tray like water. The fluid
 then exported to an Alembic file and imported into Unity. The color, texture, and transparency of the fluid flowing are then adjusted to simulate real water. Finally, a vapor effect is added using
 Unity to make the animation look more realistic.
 
-
-
+# Get Started 
+The code is a Unity Project that contains a bunch of codes example. Download the codes and implemnt to your project.
 
 ## WorkFlow and Code Explanation 
 
