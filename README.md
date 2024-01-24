@@ -5,15 +5,24 @@ Welcome to Simlab, we are providing chemical engineering course to teach the pra
 To run, download Chemical metaverse Hkust.apk to your computer and insert your Oculus device.
 
 # Install
+
+Simlab example version 
+
 1.Download and install the unity.
 
-2.Create the Lobby Scene, Control Room Scene, Chemical Plant (Enginereing) Scene.
+2.Download Chemical metaverse Hkust.apk to your computer and insert your Oculus device.
 
-3.Open the game engine and install the codes in the correct game scene.
+-------------------------------------------------------------------------------------------
 
-4.Design own engineering course in the scene. 
+Make own Simlab
 
-5.Adpated our code to the 3D object in the unity. 
+1.Create the Lobby Scene, Control Room Scene, Chemical Plant (Enginereing) Scene.
+
+2.Open the game engine and install the codes in the correct game scene.
+
+3.Design own engineering course in the scene. 
+
+4.Adpated our code to the 3D object in the unity. 
 
 # Get Started 
 The code is a Unity Project that contains a bunch of codes example. Download the codes and adjust to your project.
