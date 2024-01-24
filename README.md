@@ -1,19 +1,15 @@
 # SimLab Open Sources code 
+Welcome to Simlab, we are providing chemical engineering course to teach the practical learing expereince in the virtual environment. 
 
-SimLab can be used both autonomously or with other students and instructors. In single-user
-mode, the students interact with the virtual environment (e.g., presentation in Lobby, valves in
-the chemical plant, and interactable buttons in the control room) on their own. Such single-user
-interaction allows students to practice operating the distillation column in the chemical plant
-at their own pace. This mode can be used as a preparation for actual practice in presence of an
-instructor or to review practice material.
-To operate the distillation column, the student must follow six consecutive steps over three
-scenes (Lobby, Chemical Plant, and Control Room). 
-
+# Install
+1.Download and install the unity.
+2.Create the Lobby Scene, Control Room Scene, Chemical Plant (Enginereing) Scene.
+3.Open the game engine and install the codes in the correct game scene.
+4.Design own engineering course in the scene. 
+5.Adpated our code to the 3D object in the unity. 
 
 # Get Started 
 The code is a Unity Project that contains a bunch of codes example. Download the codes and adjust to your project.
-
-# User guide
 
 ## WorkFlow and Code Explanation 
 
