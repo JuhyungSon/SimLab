@@ -15,7 +15,7 @@ Welcome to Simlab, we are providing chemical engineering course to teach the pra
 # Get Started 
 The code is a Unity Project that contains a bunch of codes example. Download the codes and adjust to your project.
 
-## WorkFlow and Code Explanation 
+# WorkFlow and Code Explanation 
 
 - [Lobby Scene] 
 
@@ -51,6 +51,10 @@ at the video lecture in the lobby. It represent that the progress of the video l
 - HandleCheck, HandleChecker1,Handelcheckr2: If the user interact with the valve, I could check when the user interact with the valve and how much the user tried to open the valve. 
 
 - TimeChecker: When user start the open the valve and when finish the user interaction. I could get the data from this code for user task completion.
+
+  
+# GamePlay Video
+https://youtu.be/43hNDIgy3SA                
 
 
 
