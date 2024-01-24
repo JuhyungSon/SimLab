@@ -1,6 +1,9 @@
 # SimLab Open Sources code 
 Welcome to Simlab, we are providing chemical engineering course to teach the practical learing expereince in the virtual environment. 
 
+# Install Simlab platform
+To run, download Chemical metaverse Hkust.apk to your computer and insert your Oculus device.
+
 # Install
 1.Download and install the unity.
 
