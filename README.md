@@ -1,4 +1,4 @@
-# SimLab
+# SimLab Open code Sources 
 
 SimLab can be used both autonomously or with other students and instructors. In single-user
 mode, the students interact with the virtual environment (e.g., presentation in Lobby, valves in
