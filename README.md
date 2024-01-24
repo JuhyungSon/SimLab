@@ -90,8 +90,6 @@ at the video lecture in the lobby. It represent that the progress of the video l
 
 - VideoPlayBack: This code is the role of managing the video lecture from the lobby scene. 
 
-
-
 - [Control Room] 
 
 - OperationModeButton: If the user want to start the interacting with the operation protocol screen, this code is to oprate the DC protocols. 
@@ -103,3 +101,8 @@ at the video lecture in the lobby. It represent that the progress of the video l
 - HandleCheck, HandleChecker1,Handelcheckr2: If the user interact with the valve, I could check when the user interact with the valve and how much the user tried to open the valve. 
 
 - TimeChecker: When user start the open the valve and when finish the user interaction. I could get the data from this code for user task completion.
+
+
+![Screenshot (20)](https://github.com/JuhyungSon/SimLab/assets/66192341/77ccb09a-3bef-486b-9758-969cf1ac23fe)
+
+  
