@@ -2,7 +2,7 @@
 Welcome to Simlab, we are providing chemical engineering course to teach the practical learing expereince in the virtual environment. 
 
 # Install Simlab platform
-To run, download Chemical metaverse Hkust.apk to your computer and insert your Oculus device.
+To run, download Chemical metaverse Hkust.exe to your computer and insert your Oculus device.
 
 # Install
 
