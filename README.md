@@ -8,7 +8,7 @@ To run, download Chemical metaverse Hkust.apk to your computer and insert your O
 
 Simlab example version 
 
-1.Download and install the unity.
+1.Download and install the unity (Unity Version: 2021.2.7f1). 
 
 2.Download Chemical metaverse Hkust.apk to your computer and insert your Oculus device.
 
