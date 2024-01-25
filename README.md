@@ -1,16 +1,16 @@
 # SimLab Open Sources code 
-Welcome to Simlab, we are providing chemical engineering course to teach the practical learing expereince in the virtual environment. 
+Welcome to Simlab, where we offer chemical engineering courses to provide practical learning experiences in a virtual environment.
 
 # Install Simlab platform
-To run, download Chemical metaverse Hkust.exe to your computer and insert your Oculus device.
+To run, download Chemical metaverse Hkust.exe to your computer and connect your Oculus device.
 
 # Install
 
 Simlab example version 
 
-1.Download and install the unity (Unity Version: 2021.2.7f1). 
+1.Download the unity (Unity Version: 2021.2.7f1). 
 
-2.Download Chemical metaverse Hkust.apk to your computer and insert your Oculus device.
+2.Download Chemical metaverse Hkust.exe to your computer and insert your Oculus device.
 
 -------------------------------------------------------------------------------------------
 
@@ -18,51 +18,49 @@ Make own Simlab
 
 1.Create the Lobby Scene, Control Room Scene, Chemical Plant (Enginereing) Scene.
 
-2.Open the game engine and install the codes in the correct game scene.
+2.Open the game engine and paste the codes into the appropriate game scene.
 
-3.Design own engineering course in the scene. 
+3.Build your own engineering course in the scene.
 
-4.Adpated our code to the 3D object in the unity. 
+4.Applied our code to the 3D object in Unity. 
 
 # Get Started 
-The code is a Unity Project that contains a bunch of codes example. Download the codes and adjust to your project.
+The code is a Unity project that includes a number of code examples. Download the codes and customize them for your own project.
 
 # WorkFlow and Code Explanation 
 
 - [Lobby Scene] 
 
-- Button VR : Button VR is the function to turn on the UI in the Lobby,chemical plant. I used this code to use all scene. So, this code can be used from lobby scene and chemical plant as well when the user interact with this button.
+- Button VR : Button VR is the function that activates the UI in the Lobby, Chemical Plant. I used this code to use the entire scenario. When the user interacts with this button, this code may be utilized in both the lobby scene and the chemical factory.
     
-- Fade screen: Fade screen code is the role of when the user move to another scence from lobby scene to control room, the user camera will be fade during 3 sec. The, user can feel more immersive effect. 
+- Fade screen: The fade screen code ensures that when the user moves from the lobby scene to the control room, the user's camera fades for three seconds. The user can have a more immersive impression.
 
-- Move Scene: Move scene code is the role of moving the character from scene to scene.
+- Move Scene: The move scene code is in charge of transporting the character from one scene to another.
 
-- Network Manager: Netwrok manager code is the role of managing the scene into the photon network. If the user enter to the simlab, the scene can be created from the photon netwrok. 
+- Network Manager: Netwrok manager code is responsible for controlling the scene within the photon network. If the user enters the simlab, the scene may be produced using the photon network.
 
-- Network Player: Network player of code is the role of creating the user using the photon network. The user can communcate with other user from this code. 
+- Network Player: The job of the network player in code is to create the user utilizing the photon network. The user can communicate with other users using this code.
 
-- NetworkPlayerSpawen: Network player spawen code is the role of supporing the user to spawn to the scene.
+- NetworkPlayerSpawen: Network player spawn code is responsible for allowing the user to spawn in the scene.
 
-- ProgressBar: Progrees bar is the role of the checking the how much the user looking
-at the video lecture in the lobby. It represent that the progress of the video lecture.
+- ProgressBar: It represent that the progress of the video lecture.
 
-- Rotate: This code is the role of the rotating the DC in the center of the desk in the lobby scene. The user can watch the DC in the lobby.  
+- Rotate: This code controls the rotation of the DC(Distialliation Column) in the center of the desk in the lobby scenario. The user may view the DC(Distialliation Column) from the lobby.  
 
-- SceneTransitionManager: This code is help the user to move to scene to scene.
+- SceneTransitionManager: This code assists the user in moving from scene to scene.
 
-- VideoPlayBack: This code is the role of managing the video lecture from the lobby scene. 
+- VideoPlayBack: This code is responsible for managing the video lecture from the lobby scene.
 
 - [Control Room] 
 
-- OperationModeButton: If the user want to start the interacting with the operation protocol screen, this code is to oprate the DC protocols. 
+- OperationModeButton: If the user wants to begin interacting with the operation protocol screen, this code will initiate the DC(Distialliation Column) protocols.
 
 - [Chemical Plant] 
 
-- Climber,Climbinteractable: The user can climb the DC from this code. 
 
-- HandleCheck, HandleChecker1,Handelcheckr2: If the user interact with the valve, I could check when the user interact with the valve and how much the user tried to open the valve. 
+- HandleCheck, HandleChecker1,Handelcheckr2: If the user interacts with the valve, It can be tracked  how much the user tries to open the valve. 
 
-- TimeChecker: When user start the open the valve and when finish the user interaction. I could get the data from this code for user task completion.
+- TimeChecker: This code provided some data for the accomplishment of user tasks.
 
   
 # GamePlay Video
