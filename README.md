@@ -31,7 +31,7 @@ The code is a Unity project that includes a number of code examples. Download th
 
 - [Lobby Scene] 
 
-- Button VR : Button VR is the function that activates the UI in the Lobby, Chemical Plant. I used this code to use the entire scenario. When the user interacts with this button, this code may be utilized in both the lobby scene and the chemical factory.
+- Button VR : Button VR is the function that activates the UI in the Lobby, Chemical Plant.
     
 - Fade screen: The fade screen code ensures that when the user moves from the lobby scene to the control room, the user's camera fades for three seconds. The user can have a more immersive impression.
 
