@@ -45,7 +45,7 @@ The code is a Unity project that includes a number of code examples. Download th
 
 - ProgressBar: It represent that the progress of the video lecture.
 
-- Rotate: This code controls the rotation of the DC(Distialliation Column) in the center of the desk in the lobby scenario. The user may view the DC(Distialliation Column) from the lobby.  
+- Rotate: This code controls the rotation of the DC(Distillation Column) in the center of the desk in the lobby scenario. The user may view the DC(Distillation Column) from the lobby.  
 
 - SceneTransitionManager: This code assists the user in moving from scene to scene.
 
@@ -53,7 +53,7 @@ The code is a Unity project that includes a number of code examples. Download th
 
 - [Control Room] 
 
-- OperationModeButton: If the user wants to begin interacting with the operation protocol screen, this code will initiate the DC(Distialliation Column) protocols.
+- OperationModeButton: If the user wants to begin interacting with the operation protocol screen, this code will initiate the DC(Distillation Column) protocols.
 
 - [Chemical Plant] 
 
