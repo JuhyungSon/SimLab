@@ -2,9 +2,7 @@
 Simlab offers hands-on experience in manipulating virtual chemical plants. Simlab complements chemical engineering courses by providing practical and safe learning experiences in a virtual environment.
 
 ## Getting Started
-
 These instructions will get you the project up and running on your local machine to recreate our work. 
-To run, download Chemical Metaverse Hkust.exe to your PC and connect your PC to your Oculus device.
 
 ### Prerequisites
 
@@ -20,12 +18,11 @@ A step-by-step guide to getting a development environment running
 Simlab example version 
 
 1. Download the Unity (Unity Version: 2021.2.7f1). 
-
-2. Download Chemical Metaverse Hkust.exe to your PC and plug in your Oculus device to your PC.
+2. Download Chemical Metaverse Hkust.exe to your PC and plug in your Oculus device to your PC
 
 -------------------------------------------------------------------------------------------
 
-Make own Simlab
+Replicate Simlab
 
 1. Create the Lobby Scene, Control Room Scene, and Chemical Plant Scene.
 
