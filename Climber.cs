@@ -38,3 +38,4 @@ public class Climber : MonoBehaviour
         character.Move(-velocity * Time.fixedDeltaTime);
     }
 }
+//
