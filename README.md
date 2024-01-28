@@ -3,8 +3,8 @@ Simlab offers hands-on experience in manipulating virtual chemical plants. Simla
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine to recreate our work. 
-To run, download Chemical metaverse Hkust.exe to your PC and connect your PC to your Oculus device.
+These instructions will get you the project up and running on your local machine to recreate our work. 
+To run, download Chemical Metaverse Hkust.exe to your PC and connect your PC to your Oculus device.
 
 ### Prerequisites
 
@@ -14,41 +14,41 @@ To run, download Chemical metaverse Hkust.exe to your PC and connect your PC to 
 
 ### Installing
 
-A step by step to get a development env running
+A step-by-step guide to getting a development environment running
 -----------------------------------------------------------------------------------------
 
 Simlab example version 
 
-1.Download the unity (Unity Version: 2021.2.7f1). 
+1. Download the Unity (Unity Version: 2021.2.7f1). 
 
-2.Download Chemical metaverse Hkust.exe to your PC and plugin your Oculus device to your PC.
+2. Download Chemical Metaverse Hkust.exe to your PC and plug in your Oculus device to your PC.
 
 -------------------------------------------------------------------------------------------
 
 Make own Simlab
 
-1.Create the Lobby Scene, Control Room Scene, Chemical Plant (Enginereing) Scene.
+1. Create the Lobby Scene, Control Room Scene, and Chemical Plant Scene.
 
-2.Open the game engine and paste the codes into the appropriate game scene.
+2. Open the game engine and paste the codes into the appropriate game scene.
 
-3.Build your own engineering course in the scene.
+3. Build your engineering course in the scene.
 
-4.Apply our code to the 3D object in Unity. 
+4. Apply our code to the 3D object in Unity. 
 
 
 ## Running the tests
 
-1.Download the unity (Unity Version: 2021.2.7f1). 
+1. Download the Unity (Unity Version: 2021.2.7f1). 
 
-2.Download Chemical metaverse Hkust.exe to your computer and insert your Oculus device.
+2. Download Chemical Metaverse Hkust.exe to your computer and insert your Oculus device.
 
 # Explanation of Workflow and Code 
 
 **[Lobby Scene]** 
 
-- Button VR : activates the UI in the Lobby, Chemical Plant.
+- Button VR: activates the UI in the Lobby, Chemical Plant.
     
-- Fade screen: The fade screen code ensures that when the user moves from the lobby scene to the control room, the user's camera fades for three seconds. 
+- Fade screen: The fade screen code ensures that the user's camera fades for three seconds when the user moves from the lobby scene to the control room. 
 
 - Move Scene: for transporting the character from one scene to another.
 
@@ -58,13 +58,13 @@ Make own Simlab
 
 - NetworkPlayerSpawen: Allow the user to spawn in the scene.
 
-- ProgressBar: It represent that the progress of the video lecture.
+- ProgressBar: It represents the progress of the video lecture.
 
 - Rotate: Controls the rotation of the DC(Distillation Column) in the center of the desk in the lobby scenario. The user may view the DC from the lobby.  
 
 - SceneTransitionManager: This code assists the user in moving from scene to scene.
 
-- VideoPlayBack: This code is responsible for managing the video lecture from the lobby scene.
+- VideoPlayBack: This code manages the video lecture from the lobby scene.
 
  **[Control Room]**
 
@@ -73,7 +73,7 @@ Make own Simlab
   **[Chemical Plant]**
 
 
-- HandleCheck, HandleChecker1,Handelcheckr2: If the user interacts with the valve, It tracks the user attempts to open the valve. 
+- HandleCheck, HandleChecker1, Handelcheckr2: If the user interacts with the valve, It tracks the user's attempts to open the valve. 
 
 - TimeChecker: Tracks the completion of user tasks.
 
@@ -84,14 +84,14 @@ Please read for details on our code of conduct, and the process for submitting p
 
 ## Versioning
 
-We use (Unity Version: 2021.2.7f1) for versioning. For the versions available, see the Unity offcial website.
+We use (Unity Version: 2021.2.7f1) for versioning. For the versions available, see the Unity official website.
 
-## GamePlay Video
+## Gameplay Video
 https://youtu.be/43hNDIgy3SA   
 
 ## License
 
-This project is licensed under MIT. However, commercial use is not prohibited
+This project is licensed under MIT. However, commercial use is not recommended. 
 
 
 
