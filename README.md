@@ -1,10 +1,23 @@
+# Project 
+
 # SimLab Open Sources code 
 Welcome to Simlab, where we offer chemical engineering courses to provide practical learning experiences in a virtual environment.
 
-# Install Simlab platform
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 To run, download Chemical metaverse Hkust.exe to your computer and connect your Oculus device.
 
-# Install
+### Prerequisites
+
+1. Windows 
+2. Unity Version: 2021.2.7f1
+3. Oculus Quest2/3
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+-----------------------------------------------------------------------------------------
 
 Simlab example version 
 
@@ -24,8 +37,12 @@ Make own Simlab
 
 4.Applied our code to the 3D object in Unity. 
 
-# Get Started 
-The code is a Unity project that includes a number of code examples. Download the codes and customize them for your own project.
+
+## Running the tests
+
+1.Download the unity (Unity Version: 2021.2.7f1). 
+
+2.Download Chemical metaverse Hkust.exe to your computer and insert your Oculus device.
 
 # WorkFlow and Code Explanation 
 
@@ -62,9 +79,32 @@ The code is a Unity project that includes a number of code examples. Download th
 
 - TimeChecker: This code provided some data for the accomplishment of user tasks.
 
+
+## Contributing
+
+Please read for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use (Unity Version: 2021.2.7f1) for versioning. For the versions available, see the Unity offcial website.
+
+## Authors
+
+* **Juhyung Son**
+* **Juhyung Son**
+* **Juhyung Son**
+* **Juhyung Son**
+* **Juhyung Son**
   
-# GamePlay Video
-https://youtu.be/43hNDIgy3SA                
+
+See also the list who are participated in this project.
+
+## GamePlay Video
+https://youtu.be/43hNDIgy3SA   
+
+## License
+
+This project is licensed under the HKUST(Guangzhou) License 
 
 
 
