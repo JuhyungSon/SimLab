@@ -91,10 +91,10 @@ We use (Unity Version: 2021.2.7f1) for versioning. For the versions available, s
 ## Authors
 
 * **Juhyung Son**
-* **Juhyung Son**
-* **Juhyung Son**
-* **Juhyung Son**
-* **Juhyung Son**
+* **Ahmad Alhilal**
+* **Reza Hadi Mogavi**
+* **Tristan Braud**
+* **Pan HUI**
   
 
 See also the list who are participated in this project.
