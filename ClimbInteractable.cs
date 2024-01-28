@@ -33,3 +33,4 @@ public class ClimbInteractable : XRBaseInteractable
        Debug.Log("Select Exit");
     }
 }
+//
