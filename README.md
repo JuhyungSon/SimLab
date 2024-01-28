@@ -1,12 +1,10 @@
-# Project 
-
 # SimLab Open Sources code 
-Welcome to Simlab, where we offer chemical engineering courses to provide practical learning experiences in a virtual environment.
+Simlab offers hands-on experience in manipulating virtual chemical plants. Simlab complements chemical engineering courses by providing practical and safe learning experiences in a virtual environment.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-To run, download Chemical metaverse Hkust.exe to your computer and connect your Oculus device.
+These instructions will get you a copy of the project up and running on your local machine to recreate our work. 
+To run, download Chemical metaverse Hkust.exe to your PC and connect your PC to your Oculus device.
 
 ### Prerequisites
 
@@ -16,14 +14,14 @@ To run, download Chemical metaverse Hkust.exe to your computer and connect your 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step to get a development env running
 -----------------------------------------------------------------------------------------
 
 Simlab example version 
 
 1.Download the unity (Unity Version: 2021.2.7f1). 
 
-2.Download Chemical metaverse Hkust.exe to your computer and insert your Oculus device.
+2.Download Chemical metaverse Hkust.exe to your PC and plugin your Oculus device to your PC.
 
 -------------------------------------------------------------------------------------------
 
@@ -35,7 +33,7 @@ Make own Simlab
 
 3.Build your own engineering course in the scene.
 
-4.Applied our code to the 3D object in Unity. 
+4.Apply our code to the 3D object in Unity. 
 
 
 ## Running the tests
@@ -48,21 +46,21 @@ Make own Simlab
 
 - [Lobby Scene] 
 
-- Button VR : Button VR is the function that activates the UI in the Lobby, Chemical Plant.
+- Button VR : activates the UI in the Lobby, Chemical Plant.
     
-- Fade screen: The fade screen code ensures that when the user moves from the lobby scene to the control room, the user's camera fades for three seconds. The user can have a more immersive impression.
+- Fade screen: The fade screen code ensures that when the user moves from the lobby scene to the control room, the user's camera fades for three seconds. 
 
-- Move Scene: The move scene code is in charge of transporting the character from one scene to another.
+- Move Scene: for transporting the character from one scene to another.
 
-- Network Manager: Netwrok manager code is responsible for controlling the scene within the photon network. If the user enters the simlab, the scene may be produced using the photon network.
+- Network Manager: for controlling the scene within the photon network. 
 
-- Network Player: The job of the network player in code is to create the user utilizing the photon network. The user can communicate with other users using this code.
+- Network Player: to create the user utilizing the photon network. This allows users to communicate
 
-- NetworkPlayerSpawen: Network player spawn code is responsible for allowing the user to spawn in the scene.
+- NetworkPlayerSpawen: Allow the user to spawn in the scene.
 
 - ProgressBar: It represent that the progress of the video lecture.
 
-- Rotate: This code controls the rotation of the DC(Distillation Column) in the center of the desk in the lobby scenario. The user may view the DC(Distillation Column) from the lobby.  
+- Rotate: Controls the rotation of the DC(Distillation Column) in the center of the desk in the lobby scenario. The user may view the DC from the lobby.  
 
 - SceneTransitionManager: This code assists the user in moving from scene to scene.
 
@@ -70,14 +68,14 @@ Make own Simlab
 
 - [Control Room] 
 
-- OperationModeButton: If the user wants to begin interacting with the operation protocol screen, this code will initiate the DC(Distillation Column) protocols.
+- OperationModeButton: initiate the DC(Distillation Column) protocols, so users can interact with the operation protocol screen.
 
 - [Chemical Plant] 
 
 
-- HandleCheck, HandleChecker1,Handelcheckr2: If the user interacts with the valve, It can be tracked  how much the user tries to open the valve. 
+- HandleCheck, HandleChecker1,Handelcheckr2: If the user interacts with the valve, It tracks the user attempts to open the valve. 
 
-- TimeChecker: This code provided some data for the accomplishment of user tasks.
+- TimeChecker: Tracks the completion of user tasks.
 
 
 ## Contributing
@@ -88,23 +86,12 @@ Please read for details on our code of conduct, and the process for submitting p
 
 We use (Unity Version: 2021.2.7f1) for versioning. For the versions available, see the Unity offcial website.
 
-## Authors
-
-* **Juhyung Son**
-* **Ahmad Alhilal**
-* **Reza Hadi Mogavi**
-* **Tristan Braud**
-* **Pan HUI**
-  
-
-See also the list who are participated in this project.
-
 ## GamePlay Video
 https://youtu.be/43hNDIgy3SA   
 
 ## License
 
-This project is licensed under the HKUST(Guangzhou) License 
+This project is licensed under MIT. However, commercial use is not prohibited
 
 
 
