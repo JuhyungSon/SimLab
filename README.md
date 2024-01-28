@@ -42,9 +42,9 @@ Make own Simlab
 
 2.Download Chemical metaverse Hkust.exe to your computer and insert your Oculus device.
 
-# WorkFlow and Code Explanation 
+# Explanation of Workflow and Code 
 
-- [Lobby Scene] 
+**[Lobby Scene]** 
 
 - Button VR : activates the UI in the Lobby, Chemical Plant.
     
@@ -66,11 +66,11 @@ Make own Simlab
 
 - VideoPlayBack: This code is responsible for managing the video lecture from the lobby scene.
 
-- [Control Room] 
+ **[Control Room]**
 
 - OperationModeButton: initiate the DC(Distillation Column) protocols, so users can interact with the operation protocol screen.
 
-- [Chemical Plant] 
+  **[Chemical Plant]**
 
 
 - HandleCheck, HandleChecker1,Handelcheckr2: If the user interacts with the valve, It tracks the user attempts to open the valve. 
