@@ -18,7 +18,7 @@ A step-by-step guide to getting a development environment running
 Simlab example version 
 
 1. Download the Unity (Unity Version: 2021.2.7f1). 
-2. Download Chemical Metaverse Hkust.exe to your PC and plug in your Oculus device to your PC
+2. Download SimLab.exe to your PC and plug in your Oculus device to your PC
 
 -------------------------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ Replicate Simlab
 
 1. Download the Unity (Unity Version: 2021.2.7f1). 
 
-2. Download Chemical Metaverse Hkust.exe to your computer and insert your Oculus device.
+2. Download SimLab.exe to your computer and insert your Oculus device.
 
 # Explanation of Workflow and Code 
 
