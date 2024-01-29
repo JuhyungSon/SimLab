@@ -57,7 +57,7 @@ Replicate Simlab
 
 - ProgressBar: It represents the progress of the video lecture.
 
-- Rotate: Controls the rotation of the DC(Distillation Column) in the center of the desk in the lobby scenario. The user may view the DC from the lobby.  
+- Rotate: Controls the rotation of the Distillation Column (DC) in the center of the desk in the lobby scenario. The user may view the DC from the lobby.  
 
 - SceneTransitionManager: This code assists the user in moving from scene to scene.
 
